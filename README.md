@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I've been a backend developer programming in Django and Symfony and I've had fun learning Node last year.
+I'm new developing on front-end, I'm working on React projects now and I'm excited about learning this framework!
+
+Check my [github.io](https://nataliasuarez.github.io/) ✨
+
 <!--
 **NataliaSuarez/NataliaSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
