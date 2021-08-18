@@ -5,6 +5,9 @@ I'm new developing on front-end, I'm working on React projects now and I'm excit
 
 Check my [github.io](https://nataliasuarez.github.io/) ✨
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSuarez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **NataliaSuarez/NataliaSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
